@@ -1,0 +1,15 @@
+C:\Users\Creep\OneDrive\Desktop\Новая папка (7)\LR-6\LR_6_2_3\LR_6_2_3\bin\Debug\net6.0\LR_6_2_3.exe
+C:\Users\Creep\OneDrive\Desktop\Новая папка (7)\LR-6\LR_6_2_3\LR_6_2_3\bin\Debug\net6.0\LR_6_2_3.deps.json
+C:\Users\Creep\OneDrive\Desktop\Новая папка (7)\LR-6\LR_6_2_3\LR_6_2_3\bin\Debug\net6.0\LR_6_2_3.runtimeconfig.json
+C:\Users\Creep\OneDrive\Desktop\Новая папка (7)\LR-6\LR_6_2_3\LR_6_2_3\bin\Debug\net6.0\LR_6_2_3.dll
+C:\Users\Creep\OneDrive\Desktop\Новая папка (7)\LR-6\LR_6_2_3\LR_6_2_3\bin\Debug\net6.0\LR_6_2_3.pdb
+C:\Users\Creep\OneDrive\Desktop\Новая папка (7)\LR-6\LR_6_2_3\LR_6_2_3\obj\Debug\net6.0\LR_6_2_3.csproj.AssemblyReference.cache
+C:\Users\Creep\OneDrive\Desktop\Новая папка (7)\LR-6\LR_6_2_3\LR_6_2_3\obj\Debug\net6.0\LR_6_2_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Creep\OneDrive\Desktop\Новая папка (7)\LR-6\LR_6_2_3\LR_6_2_3\obj\Debug\net6.0\LR_6_2_3.AssemblyInfoInputs.cache
+C:\Users\Creep\OneDrive\Desktop\Новая папка (7)\LR-6\LR_6_2_3\LR_6_2_3\obj\Debug\net6.0\LR_6_2_3.AssemblyInfo.cs
+C:\Users\Creep\OneDrive\Desktop\Новая папка (7)\LR-6\LR_6_2_3\LR_6_2_3\obj\Debug\net6.0\LR_6_2_3.csproj.CoreCompileInputs.cache
+C:\Users\Creep\OneDrive\Desktop\Новая папка (7)\LR-6\LR_6_2_3\LR_6_2_3\obj\Debug\net6.0\LR_6_2_3.dll
+C:\Users\Creep\OneDrive\Desktop\Новая папка (7)\LR-6\LR_6_2_3\LR_6_2_3\obj\Debug\net6.0\refint\LR_6_2_3.dll
+C:\Users\Creep\OneDrive\Desktop\Новая папка (7)\LR-6\LR_6_2_3\LR_6_2_3\obj\Debug\net6.0\LR_6_2_3.pdb
+C:\Users\Creep\OneDrive\Desktop\Новая папка (7)\LR-6\LR_6_2_3\LR_6_2_3\obj\Debug\net6.0\LR_6_2_3.genruntimeconfig.cache
+C:\Users\Creep\OneDrive\Desktop\Новая папка (7)\LR-6\LR_6_2_3\LR_6_2_3\obj\Debug\net6.0\ref\LR_6_2_3.dll
