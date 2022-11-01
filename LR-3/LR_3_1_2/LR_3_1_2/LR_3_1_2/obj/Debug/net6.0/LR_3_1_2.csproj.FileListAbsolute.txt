@@ -1,0 +1,15 @@
+D:\ДО\LR\LR-3\LR_3_1_2\LR_3_1_2\LR_3_1_2\bin\Debug\net6.0\LR_3_1_2.exe
+D:\ДО\LR\LR-3\LR_3_1_2\LR_3_1_2\LR_3_1_2\bin\Debug\net6.0\LR_3_1_2.deps.json
+D:\ДО\LR\LR-3\LR_3_1_2\LR_3_1_2\LR_3_1_2\bin\Debug\net6.0\LR_3_1_2.runtimeconfig.json
+D:\ДО\LR\LR-3\LR_3_1_2\LR_3_1_2\LR_3_1_2\bin\Debug\net6.0\LR_3_1_2.dll
+D:\ДО\LR\LR-3\LR_3_1_2\LR_3_1_2\LR_3_1_2\bin\Debug\net6.0\LR_3_1_2.pdb
+D:\ДО\LR\LR-3\LR_3_1_2\LR_3_1_2\LR_3_1_2\obj\Debug\net6.0\LR_3_1_2.csproj.AssemblyReference.cache
+D:\ДО\LR\LR-3\LR_3_1_2\LR_3_1_2\LR_3_1_2\obj\Debug\net6.0\LR_3_1_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\ДО\LR\LR-3\LR_3_1_2\LR_3_1_2\LR_3_1_2\obj\Debug\net6.0\LR_3_1_2.AssemblyInfoInputs.cache
+D:\ДО\LR\LR-3\LR_3_1_2\LR_3_1_2\LR_3_1_2\obj\Debug\net6.0\LR_3_1_2.AssemblyInfo.cs
+D:\ДО\LR\LR-3\LR_3_1_2\LR_3_1_2\LR_3_1_2\obj\Debug\net6.0\LR_3_1_2.csproj.CoreCompileInputs.cache
+D:\ДО\LR\LR-3\LR_3_1_2\LR_3_1_2\LR_3_1_2\obj\Debug\net6.0\LR_3_1_2.dll
+D:\ДО\LR\LR-3\LR_3_1_2\LR_3_1_2\LR_3_1_2\obj\Debug\net6.0\refint\LR_3_1_2.dll
+D:\ДО\LR\LR-3\LR_3_1_2\LR_3_1_2\LR_3_1_2\obj\Debug\net6.0\LR_3_1_2.pdb
+D:\ДО\LR\LR-3\LR_3_1_2\LR_3_1_2\LR_3_1_2\obj\Debug\net6.0\LR_3_1_2.genruntimeconfig.cache
+D:\ДО\LR\LR-3\LR_3_1_2\LR_3_1_2\LR_3_1_2\obj\Debug\net6.0\ref\LR_3_1_2.dll
