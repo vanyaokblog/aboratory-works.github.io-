@@ -1,0 +1,32 @@
+C:\Users\Creep\OneDrive\Desktop\LR__8\LR__8\bin\Debug\net5.0\LR__8.exe
+C:\Users\Creep\OneDrive\Desktop\LR__8\LR__8\bin\Debug\net5.0\LR__8.deps.json
+C:\Users\Creep\OneDrive\Desktop\LR__8\LR__8\bin\Debug\net5.0\LR__8.runtimeconfig.json
+C:\Users\Creep\OneDrive\Desktop\LR__8\LR__8\bin\Debug\net5.0\LR__8.runtimeconfig.dev.json
+C:\Users\Creep\OneDrive\Desktop\LR__8\LR__8\bin\Debug\net5.0\LR__8.dll
+C:\Users\Creep\OneDrive\Desktop\LR__8\LR__8\bin\Debug\net5.0\LR__8.pdb
+C:\Users\Creep\OneDrive\Desktop\LR__8\LR__8\obj\Debug\net5.0\LR__8.csproj.AssemblyReference.cache
+C:\Users\Creep\OneDrive\Desktop\LR__8\LR__8\obj\Debug\net5.0\LR__8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Creep\OneDrive\Desktop\LR__8\LR__8\obj\Debug\net5.0\LR__8.AssemblyInfoInputs.cache
+C:\Users\Creep\OneDrive\Desktop\LR__8\LR__8\obj\Debug\net5.0\LR__8.AssemblyInfo.cs
+C:\Users\Creep\OneDrive\Desktop\LR__8\LR__8\obj\Debug\net5.0\LR__8.csproj.CoreCompileInputs.cache
+C:\Users\Creep\OneDrive\Desktop\LR__8\LR__8\obj\Debug\net5.0\LR__8.dll
+C:\Users\Creep\OneDrive\Desktop\LR__8\LR__8\obj\Debug\net5.0\refint\LR__8.dll
+C:\Users\Creep\OneDrive\Desktop\LR__8\LR__8\obj\Debug\net5.0\LR__8.pdb
+C:\Users\Creep\OneDrive\Desktop\LR__8\LR__8\obj\Debug\net5.0\LR__8.genruntimeconfig.cache
+C:\Users\Creep\OneDrive\Desktop\LR__8\LR__8\obj\Debug\net5.0\ref\LR__8.dll
+C:\Users\Creep\OneDrive\Desktop\Новая папка (8)\LR-8\LR__8\bin\Debug\net5.0\LR__8.exe
+C:\Users\Creep\OneDrive\Desktop\Новая папка (8)\LR-8\LR__8\bin\Debug\net5.0\LR__8.deps.json
+C:\Users\Creep\OneDrive\Desktop\Новая папка (8)\LR-8\LR__8\bin\Debug\net5.0\LR__8.runtimeconfig.json
+C:\Users\Creep\OneDrive\Desktop\Новая папка (8)\LR-8\LR__8\bin\Debug\net5.0\LR__8.runtimeconfig.dev.json
+C:\Users\Creep\OneDrive\Desktop\Новая папка (8)\LR-8\LR__8\bin\Debug\net5.0\LR__8.dll
+C:\Users\Creep\OneDrive\Desktop\Новая папка (8)\LR-8\LR__8\bin\Debug\net5.0\LR__8.pdb
+C:\Users\Creep\OneDrive\Desktop\Новая папка (8)\LR-8\LR__8\obj\Debug\net5.0\LR__8.csproj.AssemblyReference.cache
+C:\Users\Creep\OneDrive\Desktop\Новая папка (8)\LR-8\LR__8\obj\Debug\net5.0\LR__8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Creep\OneDrive\Desktop\Новая папка (8)\LR-8\LR__8\obj\Debug\net5.0\LR__8.AssemblyInfoInputs.cache
+C:\Users\Creep\OneDrive\Desktop\Новая папка (8)\LR-8\LR__8\obj\Debug\net5.0\LR__8.AssemblyInfo.cs
+C:\Users\Creep\OneDrive\Desktop\Новая папка (8)\LR-8\LR__8\obj\Debug\net5.0\LR__8.csproj.CoreCompileInputs.cache
+C:\Users\Creep\OneDrive\Desktop\Новая папка (8)\LR-8\LR__8\obj\Debug\net5.0\LR__8.dll
+C:\Users\Creep\OneDrive\Desktop\Новая папка (8)\LR-8\LR__8\obj\Debug\net5.0\refint\LR__8.dll
+C:\Users\Creep\OneDrive\Desktop\Новая папка (8)\LR-8\LR__8\obj\Debug\net5.0\LR__8.pdb
+C:\Users\Creep\OneDrive\Desktop\Новая папка (8)\LR-8\LR__8\obj\Debug\net5.0\LR__8.genruntimeconfig.cache
+C:\Users\Creep\OneDrive\Desktop\Новая папка (8)\LR-8\LR__8\obj\Debug\net5.0\ref\LR__8.dll
