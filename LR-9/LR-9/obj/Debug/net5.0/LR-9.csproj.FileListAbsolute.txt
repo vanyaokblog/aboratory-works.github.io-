@@ -1,0 +1,32 @@
+C:\Users\Студент.PC10\source\repos\Ivan_and_Artem\Laboratornie works\LR-9\LR-9\LR-9\bin\Debug\net5.0\LR-9.exe
+C:\Users\Студент.PC10\source\repos\Ivan_and_Artem\Laboratornie works\LR-9\LR-9\LR-9\bin\Debug\net5.0\LR-9.deps.json
+C:\Users\Студент.PC10\source\repos\Ivan_and_Artem\Laboratornie works\LR-9\LR-9\LR-9\bin\Debug\net5.0\LR-9.runtimeconfig.json
+C:\Users\Студент.PC10\source\repos\Ivan_and_Artem\Laboratornie works\LR-9\LR-9\LR-9\bin\Debug\net5.0\LR-9.runtimeconfig.dev.json
+C:\Users\Студент.PC10\source\repos\Ivan_and_Artem\Laboratornie works\LR-9\LR-9\LR-9\bin\Debug\net5.0\LR-9.dll
+C:\Users\Студент.PC10\source\repos\Ivan_and_Artem\Laboratornie works\LR-9\LR-9\LR-9\bin\Debug\net5.0\ref\LR-9.dll
+C:\Users\Студент.PC10\source\repos\Ivan_and_Artem\Laboratornie works\LR-9\LR-9\LR-9\bin\Debug\net5.0\LR-9.pdb
+C:\Users\Студент.PC10\source\repos\Ivan_and_Artem\Laboratornie works\LR-9\LR-9\LR-9\obj\Debug\net5.0\LR-9.csproj.AssemblyReference.cache
+C:\Users\Студент.PC10\source\repos\Ivan_and_Artem\Laboratornie works\LR-9\LR-9\LR-9\obj\Debug\net5.0\LR-9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Студент.PC10\source\repos\Ivan_and_Artem\Laboratornie works\LR-9\LR-9\LR-9\obj\Debug\net5.0\LR-9.AssemblyInfoInputs.cache
+C:\Users\Студент.PC10\source\repos\Ivan_and_Artem\Laboratornie works\LR-9\LR-9\LR-9\obj\Debug\net5.0\LR-9.AssemblyInfo.cs
+C:\Users\Студент.PC10\source\repos\Ivan_and_Artem\Laboratornie works\LR-9\LR-9\LR-9\obj\Debug\net5.0\LR-9.csproj.CoreCompileInputs.cache
+C:\Users\Студент.PC10\source\repos\Ivan_and_Artem\Laboratornie works\LR-9\LR-9\LR-9\obj\Debug\net5.0\LR-9.dll
+C:\Users\Студент.PC10\source\repos\Ivan_and_Artem\Laboratornie works\LR-9\LR-9\LR-9\obj\Debug\net5.0\ref\LR-9.dll
+C:\Users\Студент.PC10\source\repos\Ivan_and_Artem\Laboratornie works\LR-9\LR-9\LR-9\obj\Debug\net5.0\LR-9.pdb
+C:\Users\Студент.PC10\source\repos\Ivan_and_Artem\Laboratornie works\LR-9\LR-9\LR-9\obj\Debug\net5.0\LR-9.genruntimeconfig.cache
+C:\Users\Creep\OneDrive\Desktop\Новая папка (2)\LR-9\LR-9\bin\Debug\net5.0\LR-9.exe
+C:\Users\Creep\OneDrive\Desktop\Новая папка (2)\LR-9\LR-9\bin\Debug\net5.0\LR-9.deps.json
+C:\Users\Creep\OneDrive\Desktop\Новая папка (2)\LR-9\LR-9\bin\Debug\net5.0\LR-9.runtimeconfig.json
+C:\Users\Creep\OneDrive\Desktop\Новая папка (2)\LR-9\LR-9\bin\Debug\net5.0\LR-9.runtimeconfig.dev.json
+C:\Users\Creep\OneDrive\Desktop\Новая папка (2)\LR-9\LR-9\bin\Debug\net5.0\LR-9.dll
+C:\Users\Creep\OneDrive\Desktop\Новая папка (2)\LR-9\LR-9\bin\Debug\net5.0\LR-9.pdb
+C:\Users\Creep\OneDrive\Desktop\Новая папка (2)\LR-9\LR-9\obj\Debug\net5.0\LR-9.csproj.AssemblyReference.cache
+C:\Users\Creep\OneDrive\Desktop\Новая папка (2)\LR-9\LR-9\obj\Debug\net5.0\LR-9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Creep\OneDrive\Desktop\Новая папка (2)\LR-9\LR-9\obj\Debug\net5.0\LR-9.AssemblyInfoInputs.cache
+C:\Users\Creep\OneDrive\Desktop\Новая папка (2)\LR-9\LR-9\obj\Debug\net5.0\LR-9.AssemblyInfo.cs
+C:\Users\Creep\OneDrive\Desktop\Новая папка (2)\LR-9\LR-9\obj\Debug\net5.0\LR-9.csproj.CoreCompileInputs.cache
+C:\Users\Creep\OneDrive\Desktop\Новая папка (2)\LR-9\LR-9\obj\Debug\net5.0\LR-9.dll
+C:\Users\Creep\OneDrive\Desktop\Новая папка (2)\LR-9\LR-9\obj\Debug\net5.0\refint\LR-9.dll
+C:\Users\Creep\OneDrive\Desktop\Новая папка (2)\LR-9\LR-9\obj\Debug\net5.0\LR-9.pdb
+C:\Users\Creep\OneDrive\Desktop\Новая папка (2)\LR-9\LR-9\obj\Debug\net5.0\LR-9.genruntimeconfig.cache
+C:\Users\Creep\OneDrive\Desktop\Новая папка (2)\LR-9\LR-9\obj\Debug\net5.0\ref\LR-9.dll
